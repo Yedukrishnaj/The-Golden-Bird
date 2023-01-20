@@ -1,0 +1,378 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 8066 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/shara/OneDrive/Desktop/ToycathonProjectv2/ToycathonProjectv2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60269
+Successfully changed project path to: C:/Users/shara/OneDrive/Desktop/ToycathonProjectv2/ToycathonProjectv2
+C:/Users/shara/OneDrive/Desktop/ToycathonProjectv2/ToycathonProjectv2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 369.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/shara/OneDrive/Desktop/ToycathonProjectv2/ToycathonProjectv2/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   
+    VRAM:     4055 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56240
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.009438 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 153.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 12.934 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.015690 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 319.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.317 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 1.02 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2163 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.3 MB.
+System memory in use after: 95.2 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2598.
+Total: 3.858400 ms (FindLiveObjects: 0.910500 ms CreateObjectMapping: 0.174700 ms MarkObjects: 2.507200 ms  DeleteObjects: 0.264400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/Templar_Knight_Black-removebg-preview.png
+  artifactKey: Guid(9c80be771c97ca240a6b0401498902ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/Templar_Knight_Black-removebg-preview.png using Guid(9c80be771c97ca240a6b0401498902ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ef98fad02e6ad25af4e70286942ebec') in 0.915674 seconds
+  Import took 0.924539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.126437 seconds.
+  path: Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/TEMPLAR 1.prefab
+  artifactKey: Guid(fa143b08ab736694a82e306fda374a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/TEMPLAR 1.prefab using Guid(fa143b08ab736694a82e306fda374a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b568246f144a258a5cc7534d41de9ae') in 0.134915 seconds
+  Import took 0.147015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.186345 seconds.
+  path: Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT.prefab
+  artifactKey: Guid(fa143b08ab736694a82e306fda374a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT.prefab using Guid(fa143b08ab736694a82e306fda374a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41107d1c74ce621f66d374f5d2dadc97') in 0.037806 seconds
+  Import took 0.047671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030275 seconds.
+  path: Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT.prefab
+  artifactKey: Guid(fa143b08ab736694a82e306fda374a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT.prefab using Guid(fa143b08ab736694a82e306fda374a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41107d1c74ce621f66d374f5d2dadc97') in 0.125482 seconds
+  Import took 0.135885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 512.181316 seconds.
+  path: Assets/TD2D/Sprites/Environment/Stone 1.png
+  artifactKey: Guid(6b796ef73aca04b42b37edce482eaacf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Sprites/Environment/Stone 1.png using Guid(6b796ef73aca04b42b37edce482eaacf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c9e9422ab400765d3d7cca25d1a7790') in 0.147922 seconds
+  Import took 0.154687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/TD2D/Sprites/Towers/Towers.png
+  artifactKey: Guid(2d97cb46c9f04974e82cefaf95c4cf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Sprites/Towers/Towers.png using Guid(2d97cb46c9f04974e82cefaf95c4cf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78f67bb0d380ecc329969f2056ddd284') in 0.612750 seconds
+  Import took 0.617485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/TD2D/Sprites/Environment/Stone 1.png
+  artifactKey: Guid(6b796ef73aca04b42b37edce482eaacf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Sprites/Environment/Stone 1.png using Guid(6b796ef73aca04b42b37edce482eaacf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c9e9422ab400765d3d7cca25d1a7790') in 0.014160 seconds
+  Import took 0.020403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/TD2D/Sprites/Maps/Backgrounds/TileMap 1.png
+  artifactKey: Guid(84e6148b2c214ef4dbe2323481ffb0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Sprites/Maps/Backgrounds/TileMap 1.png using Guid(84e6148b2c214ef4dbe2323481ffb0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90af4f2392a1eb4eb9bc9367804195b6') in 1.174731 seconds
+  Import took 1.180032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/TD2D/Prefabs/Units/Enemies/Units/nomad/swordsman-removebg-preview-removebg-preview.png
+  artifactKey: Guid(432e134643af61f458714cdeb1cd83ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Enemies/Units/nomad/swordsman-removebg-preview-removebg-preview.png using Guid(432e134643af61f458714cdeb1cd83ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '176847b433cbdd24df1c327783eb1cf2') in 0.037994 seconds
+  Import took 0.043781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/TD2D/Prefabs/Units/Enemies/Units/Shaman/Templar_Knight_Regular-removebg-preview.png
+  artifactKey: Guid(6b1663c1a9a08cc4bae8d565e9a5a1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Enemies/Units/Shaman/Templar_Knight_Regular-removebg-preview.png using Guid(6b1663c1a9a08cc4bae8d565e9a5a1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69d96c382923799377764d50d2073fc2') in 0.020331 seconds
+  Import took 0.025727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/TD2D/Sprites/Editor/Tower.png
+  artifactKey: Guid(ecc251c3c99243949a2c277c3503eec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Sprites/Editor/Tower.png using Guid(ecc251c3c99243949a2c277c3503eec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8577d3b0b19a2a84319cbe649a5816dc') in 0.039800 seconds
+  Import took 0.046351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/TD2D/Sprites/FX/Stun.png
+  artifactKey: Guid(2d39f9db4e700034789ddede1ae6bce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Sprites/FX/Stun.png using Guid(2d39f9db4e700034789ddede1ae6bce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef3ca2fe17ef4bf7ad61a051141fa9e') in 0.055527 seconds
+  Import took 0.070575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.034027 seconds.
+  path: Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT.png
+  artifactKey: Guid(ae840b28e87a5554796aa674202b92dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT.png using Guid(ae840b28e87a5554796aa674202b92dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77d3ba5b77dc43cbfd687f90f38521ce') in 0.099809 seconds
+  Import took 0.112390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.822373 seconds.
+  path: Assets/TD2D/Sprites/GUI/Menu/UnitIcon.png
+  artifactKey: Guid(3f19b3bbbc8489c4c8eb598d52ffb44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Sprites/GUI/Menu/UnitIcon.png using Guid(3f19b3bbbc8489c4c8eb598d52ffb44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15867baebedb79492c3bbe16bf5b94c7') in 0.128936 seconds
+  Import took 0.135382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.076638 seconds.
+  path: Assets/TD2D/Sprites/Editor/ChooseDefender.png
+  artifactKey: Guid(cd38be61396454842973934d8526adc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Sprites/Editor/ChooseDefender.png using Guid(cd38be61396454842973934d8526adc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5df93a19679dbefd6a56ca72770e56bc') in 0.163059 seconds
+  Import took 0.171521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/TD2D/Sprites/GUI/Menu/old-parchment-american-indian-traditional-patterns-heron-isolated-white-background-copy-space-your-text-mock-up-141623553-removebg-preview.png
+  artifactKey: Guid(869f75539d055ec468fb1c46fe316301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Sprites/GUI/Menu/old-parchment-american-indian-traditional-patterns-heron-isolated-white-background-copy-space-your-text-mock-up-141623553-removebg-preview.png using Guid(869f75539d055ec468fb1c46fe316301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db87747f156d3acde62f611b74128ca2') in 0.067836 seconds
+  Import took 0.087868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/TD2D/Sprites/Editor/ChooseMap.png
+  artifactKey: Guid(7d62f3dcc6efe16408107ea194589761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Sprites/Editor/ChooseMap.png using Guid(7d62f3dcc6efe16408107ea194589761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67623b3c240104f960e7ebd99e3a54fb') in 0.349048 seconds
+  Import took 0.360135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.200594 seconds.
+  path: Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT.prefab
+  artifactKey: Guid(fa143b08ab736694a82e306fda374a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT.prefab using Guid(fa143b08ab736694a82e306fda374a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10bd0df60c96960e7baebec3429e96c3') in 0.024124 seconds
+  Import took 0.030151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6008.944272 seconds.
+  path: Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/img-20210611-wa0050-removebg-p.png
+  artifactKey: Guid(cab8f91712cc03b44b6d99c1f128e1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/img-20210611-wa0050-removebg-p.png using Guid(cab8f91712cc03b44b6d99c1f128e1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442c4db850606b64839320952f5dee65') in 0.027612 seconds
+  Import took 0.035098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007889 seconds.
+  path: Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/img-20210611-wa0050-removebg-p.png
+  artifactKey: Guid(cab8f91712cc03b44b6d99c1f128e1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/img-20210611-wa0050-removebg-p.png using Guid(cab8f91712cc03b44b6d99c1f128e1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442c4db850606b64839320952f5dee65') in 0.254352 seconds
+  Import took 0.261456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.608599 seconds.
+  path: Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT 2.png
+  artifactKey: Guid(cab8f91712cc03b44b6d99c1f128e1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT 2.png using Guid(cab8f91712cc03b44b6d99c1f128e1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81af180c3990e75c3e9b340919cf2e25') in 0.019252 seconds
+  Import took 0.025837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.242890 seconds.
+  path: Assets/TD2D/Sprites/Gizmos/CapturePointGizmo.png
+  artifactKey: Guid(c10d33f7c8c63f04ab29ea0ec5c0b2f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Sprites/Gizmos/CapturePointGizmo.png using Guid(c10d33f7c8c63f04ab29ea0ec5c0b2f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71550839c485692a36cd6fe73cca93bd') in 0.567999 seconds
+  Import took 0.589987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/TD2D/Prefabs/Units/Towers/Towers/Level 0/Cauldron.png
+  artifactKey: Guid(fdc3ba381306e9b41b7f73b6e008ee3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Towers/Towers/Level 0/Cauldron.png using Guid(fdc3ba381306e9b41b7f73b6e008ee3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a91adec95d5531b01a2a01c4c66591c') in 0.039727 seconds
+  Import took 0.046978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/TD2D/Sprites/GUI/Menu/Timer.png
+  artifactKey: Guid(4537aaf53bbadb449a903ee0536a6099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Sprites/GUI/Menu/Timer.png using Guid(4537aaf53bbadb449a903ee0536a6099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9409cf7ad3c489d491278c98cf08afeb') in 0.088637 seconds
+  Import took 0.093476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.725118 seconds.
+  path: Assets/TD2D/Sprites/Enemies/jojo_sequence.png
+  artifactKey: Guid(03888425435013144984292d3359d538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Sprites/Enemies/jojo_sequence.png using Guid(03888425435013144984292d3359d538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd57dcf4e3ed1962145d1d9c0bea14342') in 1.323036 seconds
+  Import took 1.334862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.165412 seconds.
+  path: Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT.prefab
+  artifactKey: Guid(fa143b08ab736694a82e306fda374a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT.prefab using Guid(fa143b08ab736694a82e306fda374a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dca005bb9302abf71a16b5ae8dee34b0') in 0.024758 seconds
+  Import took 0.031288 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009472 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.810 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2160 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.2 MB.
+System memory in use after: 98.2 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2645.
+Total: 3.794600 ms (FindLiveObjects: 0.276300 ms CreateObjectMapping: 0.111200 ms MarkObjects: 3.145000 ms  DeleteObjects: 0.260200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 621.481945 seconds.
+  path: Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT 3.png
+  artifactKey: Guid(f54c29f3b74005e44aa74c8748a25611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT 3.png using Guid(f54c29f3b74005e44aa74c8748a25611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc254dcf3cfd47d87840d59bedeb2d24') in 0.118005 seconds
+  Import took 0.125081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.959981 seconds.
+  path: Assets/TD2D/Sprites/GUI/Menu/01_menu_Main.png
+  artifactKey: Guid(36b9d6ff053aa644f886f83b4e19cf23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Sprites/GUI/Menu/01_menu_Main.png using Guid(36b9d6ff053aa644f886f83b4e19cf23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '050797d3ab9150451b11dbe8513e08c0') in 0.169702 seconds
+  Import took 0.263268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/TD2D/Sprites/GUI/Menu/01_menu_Main_14_04.png
+  artifactKey: Guid(d675acb9f4f34d8458f7c6224ad547f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Sprites/GUI/Menu/01_menu_Main_14_04.png using Guid(d675acb9f4f34d8458f7c6224ad547f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f24a93938917170c285848385ae1b1a') in 0.400777 seconds
+  Import took 0.407003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.235593 seconds.
+  path: Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT.prefab
+  artifactKey: Guid(fa143b08ab736694a82e306fda374a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT.prefab using Guid(fa143b08ab736694a82e306fda374a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46e6895756ef61e140ab8631ff6d7c43') in 0.272721 seconds
+  Import took 0.281626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.633454 seconds.
+  path: Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT.prefab
+  artifactKey: Guid(fa143b08ab736694a82e306fda374a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TD2D/Prefabs/Units/Enemies/Units/TEMPLAR/CHARIOT.prefab using Guid(fa143b08ab736694a82e306fda374a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10e135a50a85e6c22d61b0e5fa392243') in 0.027103 seconds
+  Import took 0.035948 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009465 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.813 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2160 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.3 MB.
+System memory in use after: 98.3 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2660.
+Total: 4.352400 ms (FindLiveObjects: 0.363200 ms CreateObjectMapping: 0.147900 ms MarkObjects: 3.640300 ms  DeleteObjects: 0.199100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
