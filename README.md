@@ -13,7 +13,7 @@ The Golden Bird is a Unity-based tower defense game that draws inspiration from 
 
 ## Screenshots/GIFs
 
-![Screenshot](Screenshot (116).png)
+![alt text](builds/Screenshot (116).png)
 
 Working Files
 https://drive.google.com/file/d/1tBkdrTHOd_NrIlJ0xdiubVfhW4bqGLJh/view?usp=drive_link
